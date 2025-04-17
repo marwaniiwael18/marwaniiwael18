@@ -1,5 +1,3 @@
-https://camo.githubusercontent.com/887e254bd5ff6ae0f1a45dea3979ce1a4675e2a5eab132e98723be81bde47764/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4a61776865724b6c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d303834373737267374796c653d666c6174
-### Hi there, I'm <a href="https://www.marwaniwael.me/" target="_blank" title="Marwani Wael">Marwani Wael</a> 👋
 
 <p align="left">
 <a href="https://x.com/wael93186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wael_marwanii" height="30" width="40" /></a>
