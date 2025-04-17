@@ -1,7 +1,5 @@
 
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=amir-othman&color=brightgreen" alt="profile views">
-</p>
 
 
 ### Hi there, I'm <a href="https://marwaniwael.me/" target="_blank" title="Marwani Wael Triet">Marwani Wael</a> 👋
