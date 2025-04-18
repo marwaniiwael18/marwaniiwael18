@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=marwaniiwael18&color=brightgreen" alt="profile views">
 <h1>
   
-:zap: [![committers.top badge](https://user-badge.committers.top/tunisia/marwaniiwael18.svg)](https://user-badge.committers.top/tunisia/marwaniiwael18)
+ [![committers.top badge](https://user-badge.committers.top/tunisia/marwaniiwael18.svg)](https://user-badge.committers.top/tunisia/marwaniiwael18)
 </h1>
 
 
