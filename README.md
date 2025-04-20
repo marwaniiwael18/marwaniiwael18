@@ -1,9 +1,8 @@
 
   <img src="https://komarev.com/ghpvc/?username=marwaniiwael18&color=brightgreen" alt="profile views">
-<h1>
-  
- [![committers.top badge](https://user-badge.committers.top/tunisia/marwaniiwael18.svg)](https://user-badge.committers.top/tunisia/marwaniiwael18)
-</h1>
+<!-- Show this only when you're ranked -->
+[![committers.top badge](https://user-badge.committers.top/tunisia/marwaniiwael18.svg)](https://committers.top/tunisia)
+
 
 
 ### Hi there, I'm <a href="https://marwaniwael.me/" target="_blank" title="Marwani Wael Triet">Marwani Wael</a> 👋
