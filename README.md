@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=marwaniiwael18&color=brightgreen" alt="profile views">
 <h1>
   
- [![committers.top badge](https://user-badge.committers.top/tunisia/marwaniiwael18.svg)](https://committers.top/tunisia)
+<!-- Show this only when you're ranked -->
+[![committers.top badge](https://user-badge.committers.top/tunisia/marwaniiwael18.svg)](https://committers.top/tunisia)
 
 </h1>
 
