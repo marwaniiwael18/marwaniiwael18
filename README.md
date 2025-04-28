@@ -38,9 +38,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 
 I'm always excited to connect with fellow developers and tech enthusiasts! 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/wael-marwani-/) - don't forget to mention you found me through GitHub! 😊
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/marwaniiwael18">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marwaniiwael18&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marwaniiwael18&theme=2077" height="180em" />
-</div>
+## Statistics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwaniiwael18&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaniiwael18&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
