@@ -21,23 +21,6 @@
 </h1>
 
 
-
-## Glad to see you here!
-
-<img align="right" alt="Marwani Wael" src="images/coding.gif" width="320px" />
-
-Love interacting with the community, sharing knowledge, and learning new things.
-
-**Talking about personal stuff:**
-
-- 👨 I’m Marwani Wael (Louu).
-- 😄 Pronouns: he/him/his.
-- 📧 How to reach me: marwaniwaelwork@gmail.com
-- 💬 discord: louyongebwahdou_63108
-- 🌐 Website: https://www.marwaniwael.me/
-
-## 🤝 Let's Connect! 
-
 I'm always excited to connect with fellow developers and tech enthusiasts! 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/wael-marwani-/) - don't forget to mention you found me through GitHub! 😊
 
