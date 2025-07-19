@@ -8,6 +8,7 @@
 <a href="https://www.youtube.com/@WaelMarouanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wael marwani" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wolf_killer" height="30" width="40" /></a>
 </p>
-
 </br>
- 
+ <img src="https://komarev.com/ghpvc/?username=marwaniiwael18&color=brightgreen" alt="profile views">
+<h1>
+  
