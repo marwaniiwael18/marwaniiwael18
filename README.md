@@ -12,3 +12,30 @@
  <img src="https://komarev.com/ghpvc/?username=marwaniiwael18&color=brightgreen" alt="profile views">
 <h1>
   
+
+
+## Glad to see you here!
+
+<img align="right" alt="Marwani Wael" src="images/coding.gif" width="320px" />
+
+Love interacting with the community, sharing knowledge, and learning new things.
+
+**Talking about personal stuff:**
+
+- 👨 I’m Marwani Wael (Louu).
+- 😄 Pronouns: he/him/his.
+- 📧 How to reach me: marwaniwaelwork@gmail.com
+- 💬 discord: louyongebwahdou_63108
+- 🌐 Website: https://www.marwaniwael.me/
+
+## 🤝 Let's Connect! 
+
+<!-- Show this only when you're ranked -->
+[![committers.top badge](https://user-badge.committers.top/tunisia/marwaniiwael18.svg?refresh=1)](https://committers.top/tunisia)
+
+</h1>
+
+
+I'm always excited to connect with fellow developers and tech enthusiasts! 
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/wael-marwani-/) - don't forget to mention you found me through GitHub! 😊
+
