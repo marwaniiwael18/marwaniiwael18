@@ -1,18 +1,5 @@
 
 ### Hi there, I'm <a href="https://marwaniwael.me/" target="_blank" title="Marwani Wael Triet">Marwani Wael</a> 👋
-
-
-**Talking about personal stuff:**
-
-- 👨 I’m Marwani Wael (Louu).
-- 😄 Pronouns: he/him/his.
-- 📧 How to reach me: marwaniwaelwork@gmail.com
-- 💬 discord: louyongebwahdou_63108
-- 🌐 Website: https://www.marwaniwael.me/
-
-
-
-
 ## 🤝 Let's Connect! 
 <img align="right" alt="Marwani Wael" src="images/coding.gif" width="320px" />
 
